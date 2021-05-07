@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "Xuxa da Silva",
+        "age": 100,
+        "power": "Ancient"
+    },
+    {
+        "id": 2,
+        "name": "Chapolin",
+        "age": 35,
+        "power": "Astúcia"
+    },
+    {
+        "id": 1620428827976,
+        "name": "OutroHeroi",
+        "age": 2250,
+        "power": "Not"
+    },
+    {
+        "id": 1620429597943,
+        "name": "MagaMan",
+        "age": 2,
+        "power": "Fire"
+    }
+]
